@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_secret_word_ghPage/static/css/main.c8ac2e1e.css",
-    "main.js": "/react_secret_word_ghPage/static/js/main.b6c25d9d.js",
-    "static/js/787.c74d0e55.chunk.js": "/react_secret_word_ghPage/static/js/787.c74d0e55.chunk.js",
-    "index.html": "/react_secret_word_ghPage/index.html",
-    "main.c8ac2e1e.css.map": "/react_secret_word_ghPage/static/css/main.c8ac2e1e.css.map",
-    "main.b6c25d9d.js.map": "/react_secret_word_ghPage/static/js/main.b6c25d9d.js.map",
-    "787.c74d0e55.chunk.js.map": "/react_secret_word_ghPage/static/js/787.c74d0e55.chunk.js.map"
+    "main.css": "/secret_word_game_react_GhPage/static/css/main.c8ac2e1e.css",
+    "main.js": "/secret_word_game_react_GhPage/static/js/main.df28cb01.js",
+    "static/js/787.c74d0e55.chunk.js": "/secret_word_game_react_GhPage/static/js/787.c74d0e55.chunk.js",
+    "index.html": "/secret_word_game_react_GhPage/index.html",
+    "main.c8ac2e1e.css.map": "/secret_word_game_react_GhPage/static/css/main.c8ac2e1e.css.map",
+    "main.df28cb01.js.map": "/secret_word_game_react_GhPage/static/js/main.df28cb01.js.map",
+    "787.c74d0e55.chunk.js.map": "/secret_word_game_react_GhPage/static/js/787.c74d0e55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8ac2e1e.css",
-    "static/js/main.b6c25d9d.js"
+    "static/js/main.df28cb01.js"
   ]
 }
